@@ -22,6 +22,8 @@ This notebook includes classification and data exploration of people who have an
     scikit-learn
     pandas
     numpy
+    collections
+    imblearn
 
 
 ## Author
