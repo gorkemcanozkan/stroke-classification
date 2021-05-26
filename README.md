@@ -3,7 +3,7 @@
 ![GRAU5700](https://user-images.githubusercontent.com/71969715/119327198-640d4780-bc8b-11eb-90ff-4827195ea2d2.PNG)
 
 
-This notebook includes classification of data exploration of people who have and have not stroke, also classification using different ML algorithms.
+This notebook includes classification and data exploration of people who have and have not stroke, also classification using different ML algorithms.
 
 # Models and Data Used
 -   Data: This dataset is used to predict whether a patient is likely to get stroke based on the input parameters like gender, age, various diseases, and smoking status. Each row in the data provides relavant information about the patient.
